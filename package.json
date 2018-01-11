@@ -11,5 +11,14 @@
   "dependencies": {
     "request": "^2.83.0",
     "request-promise": "^4.2.2"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aarock1234/akinator-api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/aarock1234/akinator-api/issues"
+  },
+  "homepage": "https://github.com/aarock1234/akinator-api#readme"
 }
