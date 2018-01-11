@@ -2,7 +2,7 @@
 [![npm version](https://badge.fury.io/js/akinator-api.svg)](https://badge.fury.io/js/akinator-api)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-An api for SupremeNewYork based in NodeJS.
+An api built to interact with Akinator based in NodeJS.
 
 This package has many features that you may use to interact with the Akinator api.
 Below you will find information on how to install the package + the package's features.
