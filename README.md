@@ -22,6 +22,24 @@ This package supports 15 different languages.
 
 ## Usage
 
+### Region/Language List
+us - English<br>
+de - German<br>
+fr - French<br>
+in - Hindi<br>
+es - Spanish<br>
+cn - Chinese<br>
+ar - Arabic<br>
+il - Hebrew<br>
+it - Italian<br>
+jp - Japanese<br>
+kr - Korean<br>
+nl- Netherlands<br>
+pl - Polish<br>
+pt - Portuguese<br>
+ru - Russian<br>
+tr - Turkish
+
 ### Start A Game
 
 #### Sample JSON Response
